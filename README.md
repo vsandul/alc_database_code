@@ -1,3 +1,4 @@
+![ALC_database_logo](alc_database_logo_small.png)
 # GSI ALC Database Code Repository
 
 This repository is intended for service code and example workflows related to the **GSI Absolute Lymphocyte Count (ALC) Database**. Currently, it contains demo files showcasing data processing and visualization.
