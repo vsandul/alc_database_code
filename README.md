@@ -10,7 +10,7 @@ This repository is intended for service code and example workflows related to th
 - **`ALC_database_demo.nb`**: Wolfram Mathematica demo for data import, normalization, and plotting with error bars.  
 - **`ALC_database_demo.ipynb`**: Python Jupyter Notebook demonstrating a similar workflow using `pandas`, `numpy`, and `matplotlib`.
 
-You can download and run these files for demonstration purposes.
+You can download and run these files for demonstration purposes. Both files should be placed into a folder with the database.
 
 ## Prerequisites
 - **Python**: Python 3.x, Jupyter Notebook, `numpy`, `pandas`, `matplotlib`.  
